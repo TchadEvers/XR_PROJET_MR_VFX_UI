@@ -1,0 +1,13 @@
+{
+    "name": "be.tchadevers.uiandfxmr",
+    "version": "0.0.1",
+    "displayName": "Tchad UI and FX MR",
+    "description": "To do later",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    "author": {
+      "name": "Tchad",
+      "email": "",
+      "url": ""
+    }
+  }
