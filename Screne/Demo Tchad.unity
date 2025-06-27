@@ -129,7 +129,7 @@ GameObject:
   m_Component:
   - component: {fileID: 805813512}
   m_Layer: 0
-  m_Name: Bonjour git
+  m_Name: Bonjour
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
