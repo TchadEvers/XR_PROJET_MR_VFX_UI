@@ -50,10 +50,10 @@ MonoBehaviour:
   - title: Minimal
     position:
       serializedVersion: 2
-      x: 679
+      x: 676
       y: -492
-      width: 475
-      height: 1132
+      width: 478
+      height: 1363
     contents:
     - model: {fileID: 114023846229194376}
       id: 0
@@ -68,10 +68,10 @@ MonoBehaviour:
   categories: []
   uiBounds:
     serializedVersion: 2
-    x: 680
+    x: 676
     y: -492
-    width: 474
-    height: 2039
+    width: 478
+    height: 2040
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -148,7 +148,7 @@ MonoBehaviour:
   m_Parent: {fileID: 114350483966674976}
   m_Children:
   - {fileID: 8926484042661614795}
-  m_UIPosition: {x: 705, y: 484}
+  m_UIPosition: {x: 701, y: 483}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots: []
