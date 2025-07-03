@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4512611968725876524}
   - component: {fileID: 5237903711892356002}
   m_Layer: 0
-  m_Name: Papillon Hight
+  m_Name: Papillon Hight Texture
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
