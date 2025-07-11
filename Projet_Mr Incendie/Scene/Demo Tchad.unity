@@ -612,6 +612,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: VFX_Smoke
       objectReference: {fileID: 0}
+    - target: {fileID: 8886582604157285508, guid: 6acfa0d64198c964c91c46cec24f9e48, type: 3}
+      propertyPath: m_PropertySheet.m_Vector3f.m_Array.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8886582604157285508, guid: 6acfa0d64198c964c91c46cec24f9e48, type: 3}
+      propertyPath: m_PropertySheet.m_Vector3f.m_Array.Array.data[0].m_Name
+      value: Collision Plane Position
+      objectReference: {fileID: 0}
+    - target: {fileID: 8886582604157285508, guid: 6acfa0d64198c964c91c46cec24f9e48, type: 3}
+      propertyPath: m_PropertySheet.m_Vector3f.m_Array.Array.data[0].m_Value.y
+      value: 3.101
+      objectReference: {fileID: 0}
+    - target: {fileID: 8886582604157285508, guid: 6acfa0d64198c964c91c46cec24f9e48, type: 3}
+      propertyPath: m_PropertySheet.m_Vector3f.m_Array.Array.data[0].m_Overridden
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
